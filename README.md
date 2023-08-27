@@ -79,4 +79,4 @@ Reinforcement Learning and Natural Language Processing, specifically focusing on
 
 ### **Achievements**
 
-• Kaggle Expert in the Notebooks and Discussions Categories Kaggle
+• Kaggle Expert in the Notebooks and Discussions Categories 

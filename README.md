@@ -1,9 +1,9 @@
-**##Education**
+##Education
 
 • Bachelor of Technology in Computer Science and Engineering (2021-25)
 Bhagwan Parshuram Institute Of Technology, New Delhi
 
-##**Personal Projects**
+##Personal Projects
 
 **• Haiku Llama**
 A miniature version of Llama which generates Haiku for an input line

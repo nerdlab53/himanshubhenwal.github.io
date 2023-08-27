@@ -6,7 +6,7 @@ Bhagwan Parshuram Institute Of Technology, New Delhi
 
 ### **Personal Projects**
 
-• **Haiku Llama**
+**Haiku Llama**
 A miniature version of Llama which generates Haiku for an input line
 – Fine-Tuned a miniature Llama 2 on a custom dataset to generate a small Haiku from small line as input.
 – The model is in continued development to make it better at text generation tasks and simultaneously continuing

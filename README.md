@@ -36,11 +36,17 @@
 ### **Technical Skills and Interests**
 
 **Languages** : C/C++, Python, Java
+
 **Libraries** : NumPy, Pandas, C++ STL, Python Libraries
+
 **Dev Tools/Environments**: VScode, Vim, Jupyter Notebook, Colab, Git, Github
+
 **Frameworks**: TensorFlow, PyTorch, Keras, scikit-Learn
+
 **Databases**: SQL
+
 **Relevent Coursework**: Data Structures & Algorithms, Object Oriented Programming, Database Management System.
+
 **Areas of Interest**: Currently expanding knowledge in MLOps, with a keen interest in research related to Deep
 Reinforcement Learning and Natural Language Processing, specifically focusing on GenAI, LLMs, and Transformers.
 

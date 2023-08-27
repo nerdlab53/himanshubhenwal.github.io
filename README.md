@@ -8,7 +8,7 @@ Bhagwan Parshuram Institute Of Technology, New Delhi
 
 **Haiku Llama**
 
-A miniature version of Llama which generates Haiku for an input line
+- A miniature version of Llama which generates Haiku for an input line
 – Fine-Tuned a miniature Llama 2 on a custom dataset to generate a small Haiku from small line as input.
 – The model is in continued development to make it better at text generation tasks and simultaneously continuing
   to improve the data to train the model further.
@@ -16,19 +16,19 @@ A miniature version of Llama which generates Haiku for an input line
 
 **Analysis and Prediction of Rain and Weather Trends in Australia**
 
-Analysed and predicted rain and the weather trends in Australia.
+- Analysed and predicted rain and the weather trends in Australia.
 – Conducted comprehensive analysis and predictions of rain and weather trends in Australia using the Rains in Australia dataset from Kaggle achieving an accuracy of 85.6% using XgBoost.
 – Utilized Python, Pandas, NumPy, and scikit-learn for data manipulation, analysis, and modeling.
 
 **Sign Language MNIST Classification using Convolutional Neural Networks**
 
-Used TensorFlow to create a classification model based on the Sign Language MNIST dataset on Kaggle
+- Used TensorFlow to create a classification model based on the Sign Language MNIST dataset on Kaggle
 – Constructed a classification model by leveraging a Convolutional Neural Network (CNN) tailored for the Sign Language MNIST dataset acquired from Kaggle.
 – Employed Python, TensorFlow, Keras, Matplotlib, NumPy, and Pandas for model creation, implementation, and analysis.
 
 **Sarcastic News Headline Classifier**
 
-Designed a classifier which classifies a news headline as sarcastic or not.
+- Designed a classifier which classifies a news headline as sarcastic or not.
 – Formulated a classifier with the capability to distinguish between sarcastic and non-sarcastic news headlines.
 – The dataset encompassed a collection of 2000 instances comprising headlines along with their corresponding classification as either     sarcastic or non-sarcastic.
 – Utilized Python, TensorFlow, Keras, Matplotlib, NumPy, and Pandas for building and evaluating the classifier.

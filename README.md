@@ -1,4 +1,4 @@
-##**Education**
+**##Education**
 
 • Bachelor of Technology in Computer Science and Engineering (2021-25)
 Bhagwan Parshuram Institute Of Technology, New Delhi

@@ -1,6 +1,6 @@
 ### Education
 
-Bachelor of Technology in Computer Science and Engineering (2021-25)
+**Bachelor of Technology in Computer Science and Engineering** **(2021-25)**
 - Bhagwan Parshuram Institute Of Technology, New Delhi
 
 ### **Personal Projects**
@@ -52,12 +52,12 @@ Reinforcement Learning and Natural Language Processing, specifically focusing on
 
 ### **Positions of Responsibility**
 
-**Project Co-Head (Senior Council) at IEEE BPIT Student Branch**  (2021 - Current)
-– Spearheading initiatives to raise awareness about Machine Learning among students.
-– Mentoring junior students in the field of machine learning.
+**Project Co-Head (Senior Council) at IEEE BPIT Student Branch**  **(2021 - Current)**
+- Spearheading initiatives to raise awareness about Machine Learning among students.
+- Mentoring junior students in the field of machine learning.
 
-**Alpha Tester at DeepLearning.ai** (May - June)
-– Chosen as a volunteer to test and provide feedback on short courses offered by DeepLearning.ai.
+**Alpha Tester at DeepLearning.ai** **(May - June)**
+- Chosen as a volunteer to test and provide feedback on short courses offered by DeepLearning.ai.
 
 ### **Achievements**
 - Kaggle Expert in the Notebooks and Discussions Categories 

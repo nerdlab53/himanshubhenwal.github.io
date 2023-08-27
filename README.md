@@ -9,10 +9,10 @@ Bhagwan Parshuram Institute Of Technology, New Delhi
 **Haiku Llama**
 
 - A miniature version of Llama which generates Haiku for an input line
-– Fine-Tuned a miniature Llama 2 on a custom dataset to generate a small Haiku from small line as input.
-– The model is in continued development to make it better at text generation tasks and simultaneously continuing
+- Fine-Tuned a miniature Llama 2 on a custom dataset to generate a small Haiku from small line as input.
+- The model is in continued development to make it better at text generation tasks and simultaneously continuing
   to improve the data to train the model further.
-– Utilized Python, PyTorch, AutoTrain to fine-tune using PEFT and LoRA, and HuggingFace to host the model.
+- Utilized Python, PyTorch, AutoTrain to fine-tune using PEFT and LoRA, and HuggingFace to host the model.
 
 **Analysis and Prediction of Rain and Weather Trends in Australia**
 

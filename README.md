@@ -5,7 +5,8 @@
 
 ### **Personal Projects**
 
-**Haiku Llama** [Link](https://huggingface.co/retr0sushi04/haiku-llama)
+**Haiku Llama**               
+- [Link to project](https://huggingface.co/retr0sushi04/haiku-llama)
 
 - A miniature version of Llama which generates Haiku for an input line
 - Fine-Tuned a miniature Llama 2 on a custom dataset to generate a small Haiku from small line as input.
@@ -13,19 +14,22 @@
   to improve the data to train the model further.
 - Utilized Python, PyTorch, AutoTrain to fine-tune using PEFT and LoRA, and HuggingFace to host the model.
 
-**Analysis and Prediction of Rain and Weather Trends in Australia** [Link](https://www.kaggle.com/code/himanshubhenwal/analysis-prediction-rain-in-australia)
+**Analysis and Prediction of Rain and Weather Trends in Australia**              
+- [Link to project](https://www.kaggle.com/code/himanshubhenwal/analysis-prediction-rain-in-australia)
 
 - Analysed and predicted rain and the weather trends in Australia.
 - Conducted comprehensive analysis and predictions of rain and weather trends in Australia using the Rains in Australia dataset from Kaggle achieving an accuracy of 85.6% using XgBoost.
 - Utilized Python, Pandas, NumPy, and scikit-learn for data manipulation, analysis, and modeling.
 
-**Sign Language MNIST Classification using Convolutional Neural Networks** [Link](https://www.kaggle.com/code/himanshubhenwal/sign-language-mnist-using-cnns)
+**Sign Language MNIST Classification using Convolutional Neural Networks** 
+- [Link to project](https://www.kaggle.com/code/himanshubhenwal/sign-language-mnist-using-cnns)
 
 - Used TensorFlow to create a classification model based on the Sign Language MNIST dataset on Kaggle
 - Constructed a classification model by leveraging a Convolutional Neural Network (CNN) tailored for the Sign Language MNIST dataset acquired from Kaggle.
 - Employed Python, TensorFlow, Keras, Matplotlib, NumPy, and Pandas for model creation, implementation, and analysis.
 
-**Sarcastic News Headline Classifier** [Link](https://www.kaggle.com/code/himanshubhenwal/sarcasm-classifier-using-tensorflow/notebook)
+**Sarcastic News Headline Classifier** 
+- [Link to project](https://www.kaggle.com/code/himanshubhenwal/sarcasm-classifier-using-tensorflow/notebook)
 
 - Designed a classifier which classifies a news headline as sarcastic or not.
 - Formulated a classifier with the capability to distinguish between sarcastic and non-sarcastic news headlines.
@@ -60,4 +64,5 @@ Reinforcement Learning and Natural Language Processing, specifically focusing on
 - Chosen as a volunteer to test and provide feedback on short courses offered by DeepLearning.ai.
 
 ### **Achievements**
-- Kaggle Expert in the Notebooks and Discussions Categories [Link to my Kaggle account](https://www.kaggle.com/himanshubhenwal)
+- Kaggle Expert in the Notebooks and Discussions Categories
+- [Link to my Kaggle account](https://www.kaggle.com/himanshubhenwal)

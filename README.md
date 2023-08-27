@@ -1,9 +1,9 @@
-##Education
+###**Education**
 
 • Bachelor of Technology in Computer Science and Engineering (2021-25)
 Bhagwan Parshuram Institute Of Technology, New Delhi
 
-##Personal Projects
+###**Personal Projects**
 
 **• Haiku Llama**
 A miniature version of Llama which generates Haiku for an input line
@@ -33,7 +33,7 @@ sification as either sarcastic or non-sarcastic.
 – Utilized Python, TensorFlow, Keras, Matplotlib, NumPy, and Pandas for building and evaluating the classifier.
 
 
-##**Technical Skills and Interests**
+###**Technical Skills and Interests**
 
 **Languages** : C/C++, Python, Java
 **Libraries** : NumPy, Pandas, C++ STL, Python Libraries
@@ -44,7 +44,7 @@ sification as either sarcastic or non-sarcastic.
 **Areas of Interest**: Currently expanding knowledge in MLOps, with a keen interest in research related to Deep
 Reinforcement Learning and Natural Language Processing, specifically focusing on GenAI, LLMs, and Transformers.
 
-##**Positions of Responsibility**
+###**Positions of Responsibility**
 
 **• Project Co-Head (Senior Council) at IEEE BPIT Student Branch**  (2021 - Current)
 – Spearheading initiatives to raise awareness about Machine Learning among students.
@@ -52,5 +52,5 @@ Reinforcement Learning and Natural Language Processing, specifically focusing on
 • Alpha Tester at DeepLearning.ai May - June
 – Chosen as a volunteer to test and provide feedback on short courses offered by DeepLearning.ai.
 
-**Achievements**
+###**Achievements**
 • Kaggle Expert in the Notebooks and Discussions Categories Kaggle

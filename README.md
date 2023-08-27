@@ -14,21 +14,21 @@
   to improve the data to train the model further.
 - Utilized Python, PyTorch, AutoTrain to fine-tune using PEFT and LoRA, and HuggingFace to host the model.
 
-**Analysis and Prediction of Rain and Weather Trends in Australia**              
+**Analysis and Prediction of Rain and Weather Trends in Australia**
 [View](https://www.kaggle.com/code/himanshubhenwal/analysis-prediction-rain-in-australia)
 
 - Analysed and predicted rain and the weather trends in Australia.
 - Conducted comprehensive analysis and predictions of rain and weather trends in Australia using the Rains in Australia dataset from Kaggle achieving an accuracy of 85.6% using XgBoost.
 - Utilized Python, Pandas, NumPy, and scikit-learn for data manipulation, analysis, and modeling.
 
-**Sign Language MNIST Classification using Convolutional Neural Networks** 
+**Sign Language MNIST Classification using Convolutional Neural Networks**
 [View](https://www.kaggle.com/code/himanshubhenwal/sign-language-mnist-using-cnns)
 
 - Used TensorFlow to create a classification model based on the Sign Language MNIST dataset on Kaggle
 - Constructed a classification model by leveraging a Convolutional Neural Network (CNN) tailored for the Sign Language MNIST dataset acquired from Kaggle.
 - Employed Python, TensorFlow, Keras, Matplotlib, NumPy, and Pandas for model creation, implementation, and analysis.
 
-**Sarcastic News Headline Classifier** 
+**Sarcastic News Headline Classifier**
 [View](https://www.kaggle.com/code/himanshubhenwal/sarcasm-classifier-using-tensorflow/notebook)
 
 - Designed a classifier which classifies a news headline as sarcastic or not.
